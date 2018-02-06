@@ -1,0 +1,2 @@
+rippled filter=lfs diff=lfs merge=lfs -text
+fork_build/rippled filter=lfs diff=lfs merge=lfs -text

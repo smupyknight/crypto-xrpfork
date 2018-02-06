@@ -1,0 +1,5 @@
+/Volumes/Project/XRPFork/rippled/fork_build/CMakeFiles/rebuild_cache.dir
+/Volumes/Project/XRPFork/rippled/fork_build/CMakeFiles/edit_cache.dir
+/Volumes/Project/XRPFork/rippled/fork_build/CMakeFiles/docs.dir
+/Volumes/Project/XRPFork/rippled/fork_build/CMakeFiles/rippled_classic.dir
+/Volumes/Project/XRPFork/rippled/fork_build/CMakeFiles/rippled.dir
